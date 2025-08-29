@@ -1,0 +1,10 @@
+0,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2022-01-25 20:13:56.854398
+1,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2022-01-25 20:13:57.879863
+2,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2022-01-29 21:15:54.763795
+3,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2022-01-29 21:15:55.668413
+4,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2022-01-31 20:54:56.029253
+5,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2022-01-31 20:54:56.941932
+6,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2022-01-31 21:54:24.593677
+7,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2022-01-31 21:54:25.490085
+8,TypeError,unsupported operand type(s) for +: 'int' and 'str',0,,2022-01-31 21:58:43.096912
+9,IndexError,index 66 is out of bounds for axis 0 with size 66,0,,2022-01-31 21:58:43.917918
